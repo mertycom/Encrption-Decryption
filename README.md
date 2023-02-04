@@ -45,5 +45,5 @@ The following variables are used in the code
   | encrpytpion          | This is MIS104 final exam program. | v!isTVA MR*N04T$Cna^c(xaaclrox\nm. |
   | encryption           | In this project, I used objectoriented Java programming language. | !t t!VA p,l)ec$4TI X7(d 2e)ec$l,ietf(d 3]ca l\2grnxainxc^anxwngee |
   | decryption           | !TcatcXseTf!isTo,og,]a f2\Tsevw,e vlamutVvatClt wCf! mSc&ri([5s. | I can use this program for secure communication with my friends. |
-  | decryption           | "j(y awAt @@Tsev\(t $lTpr2f(ctTDntaT$,omTwtau$I2riu@5 avT(sse" | Key must be secret to protect data from unauthorized access. |
+  | decryption           | j(y awAt @@Tsev\(t $lTpr2f(ctTDntaT$,omTwtau$I2riu@5 avT(sse | Key must be secret to protect data from unauthorized access. |
   
