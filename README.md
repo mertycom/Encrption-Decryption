@@ -22,7 +22,8 @@ The following variables are used in the code
  - messageIndex: A counter variable to keep track of the current character in the message.
  - keyIndex: A counter variable to keep track of the current digit in the key.
 
- ### Algorithm: The code performs the following steps:
+ ### Algorithm: 
+ The code performs the following steps
 
  - Extract the first digit of the key and store it in the pass variable.
  - Initialize an empty string encryptedMessage to store the encrypted message.
